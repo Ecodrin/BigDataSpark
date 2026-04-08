@@ -8,6 +8,7 @@
 4. Параметры подключения DBeaver: 
     
     a. postgres: user: ```postgres```, password: ```123```, БД: ```postgres```, host: ```localhost```,port: ```5432``` 
+    
     b. clickhouse: user: ```default```, password: ```123```, БД: ```reports```, host: ```localhost```,port: ```8123```
 5. Чтобы посмотреть результаты работы в MongoDB(в DBeaver требуется PRO версия), перейдите на ```localhost:8081```.
 
